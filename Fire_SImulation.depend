@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1795020129 source:e:\project\fire_simulation\main.cpp
+	<GL/glut.h>
+	<cmath>
+	<cstdlib>
+	<cstdio>
+	<windows.h>
+	<mmsystem.h>
+
+1794056215 d:\freeglut-mingw-master\freeglut-mingw-master\include\gl\glut.h
+	"freeglut_std.h"
+
+1794056215 d:\freeglut-mingw-master\freeglut-mingw-master\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
